@@ -1,0 +1,53 @@
+https://github.com/digitalpara/DigitalparaTeam-half-fee-Claymore-s-Dual-ETH-AMD-NVIDIA-GPU-Miner-v11.7
+
+74e2ce65f8b38470eaa810ac828f8ed6 *config.txt
+8cdb262ef153797024b0ee62fa0951bc *cudart64_80.dll
+1609f2961e7fbfb5cbba2c38db139a87 *Data.bin
+86c7528675d24b3b65e7e61c571cb267 *Data1a1.bin
+9aefd3b14afa6ac9cd13ead44265db1c *Data1a1.bin2
+6c9312860cff54d2d4aab0045eab2fa8 *Data1b1.bin
+67e3da66904569b480f2b427ecdbfed7 *Data1b1.bin2
+2a129907670cdb0fc073656b118d4e5e *Data1c1.bin
+1bd0058a956d1728ee56c5c9d2f8aa75 *Data1c1.bin2
+819a6deb8cf2b00b58623856319eb5ec *Data1c2.bin
+488e9b0a350d15a6b663813dffbcfc48 *Data1c2.bin2
+da615777c4fb4b1fb9da5b5abe311b83 *Data1d1.bin
+7024c6eb469df94b0302e5d9ce08770a *Data1d1.bin2
+b8fb53eebc95fe1db72128069ad6bb91 *Data1e1.bin
+1404680d3d0ac7ae115e0806e523b759 *Data1e1.bin2
+d35ec287aa649560e9716c0d4ebb2cee *Data1e2.bin
+02015a4475b3983a678e003af1964725 *Data1e2.bin2
+4699e7e065db1f83fcf88688920c8647 *Data1g1.bin
+1f312efd1c1442f47a1a5ba360b09a5f *Data1g1.bin2
+9c88ccfeb01b6e59f4d882261a540ac1 *Data1g2.bin
+7ff286d7b57ef8e41146e8c80d1d3502 *Data1g2.bin2
+ff63e9f2da24501b034bfd9727bdbe48 *Data1h1.bin
+acc792861a80a79cad04193029c386d1 *Data1h1.bin2
+1317086b1b0400f67ce8c4e9aa3d416e *Data1h2.bin
+c771c3a62874e3c71b991d056eca321a *Data1h2.bin2
+83378f467949a562f1d1bd9a3736daab *Data1i1.bin
+90bc57a72e3b1262abe022ac83569271 *Data1i1.bin2
+8be523fe8affa11d09d7c39bbbc9e0c2 *Data1j1.bin
+7b861d7a7c73815c7be8550b1623103f *Data1j1.bin2
+e02a0308d9c3974f7e1d4997f1949141 *dpools.txt
+d2c59759618f074a39149b44c369ab55 *epools.txt
+63dbc66c9e20359a914dac0bb1973ace *EthDcrMiner64.exe
+8891ad46202c3dace199884938adfb7f *History.txt
+7640052abebd5d4aaf90c16962c72489 *libcurl.dll
+45321d3b75b17fcb923a2cbf48e10bb9 *License.txt
+7c3b449f661d99a9b1033a14033d2987 *msvcr110.dll
+12206a614b3d2b2a409db77fc1fedcb4 *Readme!!!.txt
+97920e3fba04fe8fd7b25157c1b5fc4b *RWTeam_readme!!!.txt
+4d291b01184f20a5de9180cc7e22b8b3 *start.bat
+cd5ea61de3e346e86b3578bafded0551 *cuda6.5\cudart64_65.dll
+b5faac0c4834fa44cd3ae91d0945363d *cuda6.5\EthDcrMiner64.exe
+60ea51e513ffc81a2786b9cca098cab7 *cuda7.5\cudart64_75.dll
+fec8e8d983489d208d4deed05f23a9fa *cuda7.5\EthDcrMiner64.exe
+eeb13c9c88468c4b274a43c7a83fb058 *cuda9.1\cudart64_91.dll
+8e422fc11cdaf00936d6050c5ff9a3cc *cuda9.1\EthDcrMiner64.exe
+d4ea80425eab3627559045fb8e23f93b *Remote manager\API.txt
+feb3cccb362167486af1476817f02547 *Remote manager\EthMan.exe
+6b1246a5acb66b077b3e9c8ee2e6a3df *Remote manager\libeay32.dll
+c7e2b21f3c043860f1636de3f7297373 *Remote manager\readme.txt
+56c9f99b79b869a2f9e0159bb16e1227 *Remote manager\sample.bat
+e1f3b02f7670b6f92cf05ac7628297aa *Remote manager\ssleay32.dll
