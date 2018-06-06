@@ -23,7 +23,5 @@ you just need to know your ip adres for that option
 Ethermine is the best ethereum pool at the moment low fee and fast share rates
 dwarfpool has a faster share rate but the share are less worth
 
-THIS FILE HAS BEEN DOWNLOADED FROM HTTPS://CLAYMORE-NODEVFEE.NL
-
 PLEASE VISIT US AND IF YOU LIKE THIS PROGRAM MAKE A DONATION OUR WALLET ADRESS IS ON OUR SITE
 OFCOURSE THE PROGRAM IS FREE TO USE
